@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+python-multipart
+pillow
+torch --extra-index-url https://download.pytorch.org/whl/cpu
+torchvision --extra-index-url https://download.pytorch.org/whl/cpu
